@@ -10,7 +10,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: nguyenlouis@gmail.com
 - 😄 Pronouns: Azlou77
-- ❤️ Loves: 🏅  Pratice sport: running, biking
-            📚  Romans classic with authors: Hugo, Balzac, Stendhal, Alexander Dumas
-            🔍  Investigation books: Agatha Christie, Conan Doyle
-            🇬🇷  Greek culture and Mythologies
+- ❤️  Loves:
+- 🏅  Pratice sport: running, biking
+- 📚  Romans classic with authors: Hugo, Balzac, Stendhal, Alexander Dumas
+- 🔍  Investigation books: Agatha Christie, Conan Doyle
+- 🇬🇷   Greek culture and Mythologies
