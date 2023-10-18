@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on IPSSI school
-- 🌱 I’m currently learning Symfony 
+- 🔭 I’m currently working on API JS projects
+- 🌱 I’m currently learning JS and Frameworks like React, ExpressJS
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: nguyenlouis@gmail.com
 - 😄 Pronouns: Azlou77
