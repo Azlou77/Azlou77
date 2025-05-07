@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on next js project
+- 🔭 I’m currently working on JAVA rental project
 - 🌱 I’m currently learning JS and Frameworks like React, ExpressJS
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: nguyenlouis@gmail.com
