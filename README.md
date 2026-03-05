@@ -47,6 +47,8 @@ Database:
 I’m currently working on JS API Fetch with classes/modules.
 
 ## 🚀 **How to reach me:**
-- 📫  nguyenlouis@gmail.com
-- ☎️  07 45 23 73 33
+<div>
+  <img src="https://img.shields.io/badge/nguyenlouis172@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" style="height: 30px">
+  <img src="https://img.shields.io/badge/07 45 23 73 33-25D366?style=flat-square&logo=whatsapp&logoColor=white" style="height: 30px">
+</div>
 
