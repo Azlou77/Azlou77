@@ -39,7 +39,6 @@ Database:
   <img src="https://img.shields.io/badge/Github-FCAF3B?style=flat-square&logo=github&logoColor=white" style="height: 40px">
   <img src="https://img.shields.io/badge/Gitlab-FCAF3B?style=flat-square&logo=gitlab&logoColor=white" style="height: 40px">
   <img src="https://img.shields.io/badge/Docker-FCAF3B?style=flat-square&logo=docker&logoColor=white" style="height: 40px">
-  <img src="https://img.shields.io/badge/NodeJS-FCAF3B?style=flat-square&logo=nodedotjs&logoColor=white" style="height: 40px">
 </div>
 
 
